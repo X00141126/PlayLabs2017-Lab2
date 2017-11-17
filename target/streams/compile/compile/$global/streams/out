@@ -1,0 +1,5 @@
+[0m[[0m[31merror[0m] [0m[0m/home/laralagioia/webapps/playLabs2017 - Lab2/app/controllers/HomeController.java:19:1: method render in class views.html.index cannot be applied to given types;[0m
+[0m[[0m[31merror[0m] [0m[0m  required: java.lang.String,java.lang.String[0m
+[0m[[0m[31merror[0m] [0m[0m  found: java.lang.String[0m
+[0m[[0m[31merror[0m] [0m[0m  reason: actual and formal argument lists differ in length[0m
+[0m[[0m[31merror[0m] [0m[0m        return ok(views.html.index.render("Welcome to the Home page"), name);[0m
